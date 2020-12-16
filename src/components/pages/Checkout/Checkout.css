@@ -1,0 +1,17 @@
+
+body {
+  background: #ffffff;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: right top;
+
+}
+
+
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}

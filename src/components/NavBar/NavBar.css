@@ -1,0 +1,45 @@
+.NavBar-b-color {
+    background: linear-gradient(91.29deg, #949494 3.02%, rgba(244, 121, 121, 0.83) 100%);
+    border-radius: 10px;
+    left: 1185px;
+    width: 250px;
+    padding-left: 35px;
+}
+
+.link:hover {
+    color: #FF0000;
+}
+
+.NavBar-l-color {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Verdana", Times, serif;
+}
+
+.NavBar-l2-color {
+    color: #181818;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+    font-family: "Cooper Black", fantasy;
+    letter-spacing: -1px;
+}
+
+.NavBar-l-color2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.NavBar-l3-color {
+    color: #EE7D7D;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.NavBar-l2-color:hover {
+    color: #EE7D7D;
+}
